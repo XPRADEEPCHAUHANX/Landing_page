@@ -1,2 +1,2 @@
 # Landing_page
-landing page 
+landing page of figma site
